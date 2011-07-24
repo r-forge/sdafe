@@ -1,0 +1,13 @@
+Package: sdafe
+Type: Package
+Title: Companion to Statistics and Data Analysis for Financial Engineering
+Version: 1.0
+Date: 2011-07-23
+Author: Guy Yollin
+Maintainer: Guy Yollin <gyollin@r-programming.org>
+Description: The SDAFE package is an R companion to Statistics and 
+	Data Analysis for Financial Engineering by David Ruppert (2011, Springer).
+	The package includes script files, functions, and data sets to reproduce 
+	most examples, figures, and tables from the text.
+License: GPL 2
+LazyLoad: yes
