@@ -3,7 +3,7 @@
 %- Also NEED an '\alias' for EACH other topic documented here.
 \title{Figure_2.1}
 \description{
-%%  ~~ A concise (1-5 lines) description of what the function does. ~~
+Fig. 2.1. Comparison of functions log(1 + x) and x
 }
 \usage{
 Figure_2.1()
@@ -20,10 +20,10 @@ Figure_2.1()
 %% ...
 }
 \references{
-%% ~put references to the literature/web site here ~
+Statistics and Data Analysis for Financial Engineering, David Ruppert, Springer, 2010
 }
 \author{
-%%  ~~who you are~~
+Guy Yollin
 }
 \note{
 %%  ~~further notes~~
