@@ -30,9 +30,9 @@ Statistics and Data Analysis for Financial Engineering, David Ruppert, Springer,
 }
 \keyword{ package }
 \seealso{
-  \url{
-    http://legacy.orie.cornell.edu/~davidr/SDAFE/index.html
-  }
+%  \url{
+%    http://legacy.orie.cornell.edu/~davidr/SDAFE/index.html
+%  }
 }
 \examples{
 # display figure
