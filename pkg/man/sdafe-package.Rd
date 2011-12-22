@@ -18,11 +18,9 @@ Date: \tab 2011-07-23\cr
 License: \tab GPL 2\cr
 LazyLoad: \tab yes\cr
 }
-~~ An overview of how to use the package, including the most important functions ~~
 }
 \author{
-Guy Yollin
-
+Guy Yollin\cr
 Maintainer: Guy Yollin <gyollin@r-programming.org>
 }
 \references{
@@ -30,9 +28,8 @@ Statistics and Data Analysis for Financial Engineering, David Ruppert, Springer,
 }
 \keyword{ package }
 \seealso{
-%  \url{
-%    http://legacy.orie.cornell.edu/~davidr/SDAFE/index.html
-%  }
+David Ruppert's textbook web page:\cr
+\url{http://people.orie.cornell.edu/~davidr/SDAFE/data/index.html}
 }
 \examples{
 # display figure

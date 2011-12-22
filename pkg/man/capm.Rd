@@ -20,9 +20,11 @@ Historic daily quotes from 1993-11-01 to 2003-04-03
   }
 }
 \details{
-Dataset for Example 16.3
+Dataset used in:\cr
+Example 16.3
 }
 \source{
+David Ruppert's textbook web page:
 \url{http://people.orie.cornell.edu/~davidr/SDAFE/data/index.html}
 }
 \references{

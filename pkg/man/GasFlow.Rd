@@ -17,12 +17,14 @@ Daily flows of natural gas in three pipelines
   }
 }
 \details{
-Example 4.3
-Example 5.9
-Example 5.10
-Example 8.2
+Dataset used in:\cr
+Example 4.3\cr
+Example 5.9\cr
+Example 5.10\cr
+Example 8.2\cr
 }
 \source{
+David Ruppert's textbook web page:\cr
 \url{http://people.orie.cornell.edu/~davidr/SDAFE/data/index.html}
 }
 \references{
