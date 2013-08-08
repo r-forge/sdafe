@@ -2,7 +2,7 @@ Package: sdafe
 Type: Package
 Title: Companion to Statistics and Data Analysis for Financial Engineering
 Version: 1.0
-Date: 2011-07-23
+Date: 2013-08-08
 Author: Guy Yollin
 Maintainer: Guy Yollin <gyollin@r-programming.org>
 Description: The sdafe package is an R companion to Statistics and 
